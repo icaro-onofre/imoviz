@@ -4,6 +4,7 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],  theme: {
+	inconsolata:["Inconsolata","sans-serif"],
     extend: {},
   },
   plugins: [],
